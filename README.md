@@ -108,3 +108,12 @@ It is **authored by** [**陳佳俊**](https://github.com/jerryboy1031), **練韋
 My two teammates and I came up with the game set together, for example, what's a fighting game be like, what are essential functions or elements in the game. Then, we had spending total a week collaborating to make this happened.
 
 There's no part that I am completely responsible, but I had helped other teammate debug, fixed fundamental problems, and finished almost 95% of "character.c" file. "character.c" file may be the most important and difficult file in this game, and the lines of code is the biggest, too.
+
+
+## Send Us Feedback!
+Our library is open source for research purposes, and we want to improve it! So let us know (create a new GitHub issue or pull request, email us, etc.) if you...
+1. Find/fix any bug (in functionality or speed) or know how to speed up or improve any part of OpenPose.
+2. Want to add/show some cool functionality/demo/project made on top of it. We can add your project link to our project.
+
+## License
+OpenPose is freely available for free non-commercial use, and may be redistributed under these conditions. Please, see the [license](./LICENSE) for further details.

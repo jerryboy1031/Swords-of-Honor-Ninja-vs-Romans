@@ -7,7 +7,6 @@ My two teammates and I came up with the game set together, for example, what's a
 
 There's no part that I am completely responsible, but I had helped other teammate debug, fixed fundamental problems, and finished almost 95% of "character.c" file. "character.c" file may be the most important and difficult file in this game, and the lines of code is the biggest, too.
 
------------------
 [**Swords-of-Honor-Ninja-vs-Romans**](https://github.com/jerryboy1031/Swords-of-Honor-Ninja-vs-Romans/edit/main) is a video game. It features a beautiful game scene,  delicated actions, and two characters: a Ninja and Romans soldier, fighting until one of them is dead. 
 What's more, the tints (i.e. hurt tint) and actions are beyond description.
 
@@ -26,12 +25,14 @@ It is **authored by** [**Ginés Hidalgo**](https://www.gineshidalgo.com), [**Zhe
 ## Contents
 1. [Results](#results)
 2. [Features](#features)
-3. [Contributors](#Contributors)
+3. [Contributors](#contributors)
 4. [Installation](#installation)
 5. [Quick Start Overview](#quick-start-overview)
 6. [Send Us Feedback!](#send-us-feedback)
 7. [Citation](#citation)
 8. [License](#license)
+
+
 
 ## Results
 ### Game scene
@@ -47,32 +48,55 @@ It is **authored by** [**Ginés Hidalgo**](https://www.gineshidalgo.com), [**Zhe
 - **2D real-time multi-person keypoint detection**:
     - 15, 18 or **25-keypoint body/foot keypoint estimation**, including **6 foot keypoints**. **Runtime invariant to number of detected people**.
     - **2x21-keypoint hand keypoint estimation**. **Runtime depends on number of detected people**. See [**OpenPose Training**](https://github.com/CMU-Perceptual-Computing-Lab/openpose_train) for a runtime invariant alternative.
-    - **70-keypoint face keypoint estimation**. **Runtime depends on number of detected people**. See [**OpenPose Training**](https://github.com/CMU-Perceptual-Computing-Lab/openpose_train) for a runtime invariant alternative.
-- [**3D real-time single-person keypoint detection**](doc/advanced/3d_reconstruction_module.md):
-    - 3D triangulation from multiple single views.
-    - Synchronization of Flir cameras handled.
-    - Compatible with Flir/Point Grey cameras.
-- [**Calibration toolbox**](doc/advanced/calibration_module.md): Estimation of distortion, intrinsic, and extrinsic camera parameters.
-- **Single-person tracking** for further speedup or visual smoothing.
+    - **70-keypoint face keypoint estimation**. **Runtime depends on number of detected people**. See [**OpenPose Training**](https://github.com/CMU-Perceptual-Computing-
 
-**Input**: Image, video, webcam, Flir/Point Grey, IP camera, and support to add your own custom input source (e.g., depth camera).
+- **Fondamental units**:
+    -  start
+    -  exit
+    -  icon
+- **Fondamental game scenes**:
+    -  menu
+    -  gameplay
+    -  gameover
+- **Main units**
+  - characters
+    - ninja
+    - Romans soldier
+<p align="center">
+    <img src="image/move1.png" width="100">
+    <img src="image/move21.png" width="100">
+    <br>
+</p>
 
-**Output**: Basic image + keypoint display/saving (PNG, JPG, AVI, ...), keypoint saving (JSON, XML, YML, ...), keypoints as array class, and support to add your own custom output code (e.g., some fancy UI).
+- **Qualification**
+  - health bar (HP)
 
-**OS**: Ubuntu (20, 18, 16, 14), Windows (10, 8), Mac OSX, Nvidia TX2.
+- **Qualification**
+  - health bar (HP)
 
-**Hardware compatibility**: CUDA (Nvidia GPU), OpenCL (AMD GPU), and non-GPU (CPU-only) versions.
+- **Gameplay**
+  - Interaction (fighting)
+  - Character sound effects (swinging swords, jumping)
+  - MENU sound effects
+  - Game start sound effect
+  - Game ending sound effect
+  - Special effects of being injured (character turns red)
+  - Boundary setting
 
-**Usage Alternatives**:
-- [**Command-line demo**](doc/01_demo.md) for built-in functionality.
-- [**C++ API**](doc/04_cpp_api.md/) and [**Python API**](doc/03_python_api.md) for custom functionality. E.g., adding your custom inputs, pre-processing, post-posprocessing, and output steps.
-
-For further details, check the [major released features](doc/07_major_released_features.md) and [release notes](doc/08_release_notes.md) docs.
-
+- **Moving of Character**
+  -  moves horizontally
+  -  horizontal acceleration
+  -  vertical jump
+  -  attack with a sword
+    
+### Concept figures
+- Menu
+- GamePlay
+- GameOver
 
 
 ## Contributors
-- [**陳佳俊**](jerryboy10311@gmail.com)
+- [**陳佳俊**](https://github.com/jerryboy1031)
 - [**練韋辰**]
 - [**高茝媛**]
 

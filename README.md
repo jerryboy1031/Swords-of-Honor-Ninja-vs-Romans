@@ -1,7 +1,12 @@
 # Swords-of-Honor-Ninja-vs-Romans
 ### A video game written in Allegro5 and C language
 
-
+<p align="center">
+    <img src=".vs/figs/cover.png" width="600">
+    <br>
+    <sup>Game cover designed by [**陳佳俊**](https://github.com/jerryboy1031)
+    </sup>
+</p>
 
 [**Swords-of-Honor-Ninja-vs-Romans**](https://github.com/jerryboy1031/Swords-of-Honor-Ninja-vs-Romans/edit/main) is a video game. It features a beautiful game scene,  delicated actions, and two characters: a Ninja and Romans soldier, fighting until one of them is dead. 
 What's more, the tints (i.e. hurt tint) and actions are beyond description.

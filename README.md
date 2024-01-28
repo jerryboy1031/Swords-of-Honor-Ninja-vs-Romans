@@ -97,8 +97,8 @@ It is **authored by** [**Ginés Hidalgo**](https://www.gineshidalgo.com), [**Zhe
 
 ## Contributors
 - [**陳佳俊**](https://github.com/jerryboy1031)
-- [**練韋辰**]
-- [**高茝媛**]
+- **練韋辰**
+- **高茝媛**
 
 ## Installation
 If you want to use OpenPose without installing or writing any code, simply [download and use the latest Windows portable version of OpenPose](doc/installation/0_index.md#windows-portable-demo)!

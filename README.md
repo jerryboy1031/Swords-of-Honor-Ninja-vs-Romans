@@ -4,7 +4,7 @@
 <p align="center">
     <img src=".vs/figs/cover.png" width="600">
     <br>
-    <sup>Game cover designed by [**陳佳俊**](https://github.com/jerryboy1031)
+    <sup>Game cover designed by 陳佳俊
     </sup>
 </p>
 

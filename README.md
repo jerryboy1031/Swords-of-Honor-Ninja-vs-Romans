@@ -8,7 +8,7 @@ It is **authored by** [**陳佳俊**](https://github.com/jerryboy1031), **練韋
 
 
 <p align="center">
-    <img src=".vs/figs/IMG_2466.png" width="200">
+    <img src=".vs/IMG_2466.jpg" width="200">
     <br>
     <sup>Authors 陳佳俊(left), 練韋辰(mid), and 高茝媛(right)
     </sup>

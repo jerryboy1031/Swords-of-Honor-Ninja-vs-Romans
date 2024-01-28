@@ -4,14 +4,14 @@
 [**Swords-of-Honor-Ninja-vs-Romans**](https://github.com/jerryboy1031/Swords-of-Honor-Ninja-vs-Romans/edit/main) is a video game. It features a beautiful game scene,  delicated actions, and two characters: a Ninja and Romans soldier, fighting until one of them is dead. 
 What's more, the tints (i.e. hurt tint) and actions are beyond description.
 
-It is **authored by** [**Ginés Hidalgo**](https://www.gineshidalgo.com), [**Zhe Cao**](https://people.eecs.berkeley.edu/~zhecao), [**Tomas Simon**](http://www.cs.cmu.edu/~tsimon), [**Shih-En Wei**](https://scholar.google.com/citations?user=sFQD3k4AAAAJ&hl=en), [**Yaadhav Raaj**](https://www.raaj.tech), [**Hanbyul Joo**](https://jhugestar.github.io), **and** [**Yaser Sheikh**](http://www.cs.cmu.edu/~yaser). It is **maintained by** [**Ginés Hidalgo**](https://www.gineshidalgo.com) **and** [**Yaadhav Raaj**](https://www.raaj.tech). OpenPose would not be possible without the [**CMU Panoptic Studio dataset**](http://domedb.perception.cs.cmu.edu). We would also like to thank all the people who [have helped OpenPose in any way](doc/09_authors_and_contributors.md).
-
+It is **authored by** [**陳佳俊**](https://github.com/jerryboy1031), **練韋辰**, and **高茝媛**. It is **maintained by** [**陳佳俊**](https://github.com/jerryboy1031). This project would not be possible without all these members. We would also like to thank all the people who have helped OpenPose in any way.
 
 
 <p align="center">
-    <img src=".github/media/pose_face_hands.gif" width="480">
+    <img src=".github/figs/IMG_2466.png" width="200">
     <br>
-    <sup>Authors <a href="https://www.gineshidalgo.com" target="_blank">Ginés Hidalgo</a> (left) and <a href="https://jhugestar.github.io" target="_blank">Hanbyul Joo</a> (right) in front of the <a href="http://domedb.perception.cs.cmu.edu" target="_blank">CMU Panoptic Studio</a></sup>
+    <sup>Authors 陳佳俊(left), 練韋辰(mid), and 高茝媛(right)
+    </sup>
 </p>
 
 

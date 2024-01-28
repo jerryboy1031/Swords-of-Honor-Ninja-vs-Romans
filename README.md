@@ -23,18 +23,19 @@ It is **authored by** [**陳佳俊**](https://github.com/jerryboy1031), **練韋
 2. [Features](#features)
 3. [Contributors](#contributors)
 4. [Installation](#installation)
-6. [Send Us Feedback!](#send-us-feedback)
-7. [Citation](#citation)
-8. [License](#license)
+5. [Send Us Feedback!](#send-us-feedback)
+6. [License](#license)
 
 
 
 ## Results
 ### Gameplay
 <p align="center">
-    <img src=".github/media/dance_foot.gif" width="300">
+    <img src=".vs/figs/gameplay1.png" width="300">
+    <img src=".vs/figs/gameplay2.png" width="300">
+    <img src=".vs/figs/gameplay3.png" width="300">
     <br>
-    <sup>Testing OpenPose: (Left) <a href="https://www.youtube.com/watch?v=2DiQUX11YaY" target="_blank"><i>Crazy Uptown Funk flashmob in Sydney</i></a> video sequence. (Center and right) Authors <a href="https://www.gineshidalgo.com" target="_blank">Ginés Hidalgo</a> and <a href="http://www.cs.cmu.edu/~tsimon" target="_blank">Tomas Simon</a> testing face and hands</sup>
+    <sup>Start fighting scene(Left), Attack action(Center), hurting tints(Right) 
 </p>
 
 

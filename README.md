@@ -1,10 +1,12 @@
 # Swords-of-Honor-Ninja-vs-Romans
 ### A video game written in Allegro5 and C language
 
+
+
 [**Swords-of-Honor-Ninja-vs-Romans**](https://github.com/jerryboy1031/Swords-of-Honor-Ninja-vs-Romans/edit/main) is a video game. It features a beautiful game scene,  delicated actions, and two characters: a Ninja and Romans soldier, fighting until one of them is dead. 
 What's more, the tints (i.e. hurt tint) and actions are beyond description.
 
-It is **authored by** [**陳佳俊**](https://github.com/jerryboy1031), **練韋辰**, and **高茝媛**. It is **maintained by** [**陳佳俊**](https://github.com/jerryboy1031). This project would not be possible without all these members. We would also like to thank all the people who have helped OpenPose in any way.
+It is **authored by** [**陳佳俊**](https://github.com/jerryboy1031), **練韋辰**, and **高茝媛**. It is **maintained by** [**陳佳俊**](https://github.com/jerryboy1031). This project would not be possible without all these members. We would also like to thank all the people who have helped us in any way.
 
 
 <p align="center">
@@ -37,12 +39,6 @@ It is **authored by** [**陳佳俊**](https://github.com/jerryboy1031), **練韋
 
 
 ## Features
-**Main Functionality**:
-- **2D real-time multi-person keypoint detection**:
-    - 15, 18 or **25-keypoint body/foot keypoint estimation**, including **6 foot keypoints**. **Runtime invariant to number of detected people**.
-    - **2x21-keypoint hand keypoint estimation**. **Runtime depends on number of detected people**. See [**OpenPose Training**](https://github.com/CMU-Perceptual-Computing-Lab/openpose_train) for a runtime invariant alternative.
-    - **70-keypoint face keypoint estimation**. **Runtime depends on number of detected people**. See [**OpenPose Training**](https://github.com/CMU-Perceptual-Computing-
-
 - **Fondamental units**:
     -  start
     -  exit
@@ -64,9 +60,6 @@ It is **authored by** [**陳佳俊**](https://github.com/jerryboy1031), **練韋
 - **Qualification**
   - health bar (HP)
 
-- **Qualification**
-  - health bar (HP)
-
 - **Gameplay**
   - Interaction (fighting)
   - Character sound effects (swinging swords, jumping)
@@ -84,17 +77,17 @@ It is **authored by** [**陳佳俊**](https://github.com/jerryboy1031), **練韋
     
 ### Concept figures
 - Menu
-<p align="center">
+<p align="left">
     <img src=".vs/figs/Menu.png" width="300">
     <br>
 </p>
 - GamePlay
-<p align="center">
+<p align="left">
     <img src=".vs/figs/GamePlay.png" width="300">
     <br>
 </p>
 - GameOver
-<p align="center">
+<p align="left">
     <img src=".vs/figs/GameOver.png" width="300">
     <br>
 </p>

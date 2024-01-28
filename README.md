@@ -84,17 +84,17 @@ It is **authored by** [**陳佳俊**](https://github.com/jerryboy1031), **練韋
     
 ### Concept figures
 - Menu
-- <p align="center">
+<p align="center">
     <img src=".vs/figs/Menu.png" width="300">
     <br>
 </p>
 - GamePlay
-- <p align="center">
+<p align="center">
     <img src=".vs/figs/GamePlay.png" width="300">
     <br>
 </p>
 - GameOver
-- <p align="center">
+<p align="center">
     <img src=".vs/figs/GameOver.png" width="300">
     <br>
 </p>

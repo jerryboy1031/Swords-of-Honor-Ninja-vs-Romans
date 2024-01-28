@@ -8,7 +8,7 @@ It is **authored by** [**陳佳俊**](https://github.com/jerryboy1031), **練韋
 
 
 <p align="center">
-    <img src=".vs/figs/IMG_2466.png" width="200">
+    <img src=".vs/IMG_2466.JPG" width="300">
     <br>
     <sup>Authors 陳佳俊(left), 練韋辰(mid), and 高茝媛(right)
     </sup>
@@ -84,8 +84,20 @@ It is **authored by** [**陳佳俊**](https://github.com/jerryboy1031), **練韋
     
 ### Concept figures
 - Menu
+- <p align="center">
+    <img src=".vs/Menu.png" width="300">
+    <br>
+</p>
 - GamePlay
+- <p align="center">
+    <img src=".vs/GamePlay.png" width="300">
+    <br>
+</p>
 - GameOver
+- <p align="center">
+    <img src=".vs/GameOver.png" width="300">
+    <br>
+</p>
 
 
 ## Contributors

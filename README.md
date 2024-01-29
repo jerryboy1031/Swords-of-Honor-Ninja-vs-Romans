@@ -8,7 +8,7 @@
     </sup>
 </p>
 
-[**Swords-of-Honor-Ninja-vs-Romans**](https://github.com/jerryboy1031/Swords-of-Honor-Ninja-vs-Romans/edit/main) is a video game. It features a beautiful game scene,  delicated actions, and two characters: a Ninja and Romans soldier, fighting until one of them is dead. 
+[**Swords-of-Honor-Ninja-vs-Romans**](https://github.com/jerryboy1031/Swords-of-Honor-Ninja-vs-Romans/tree/main) is a video game. It features a beautiful game scene,  delicated actions, and two characters: a Ninja and Romans soldier, fighting until one of them is dead. 
 What's more, the tints (i.e. hurt tint) and actions are beyond description.
 
 It is **authored by** [**陳佳俊**](https://github.com/jerryboy1031), **練韋辰**, and **高茝媛**. It is **maintained by** [**陳佳俊**](https://github.com/jerryboy1031). This project would not be possible without all these members. We would also like to thank all the people who have helped us in any way.
